@@ -20,19 +20,5 @@ One motivator for this project was that I kept getting burned doing active tradi
 
 Diversification is the most effective strategy against isolated portfolio risks. As noted in the Markowitz model first published in 1952, given a group of assets, the most efficient portfolios of those assets are the combinations that result in the highest returns with the lowest risk, with standard-deviation being a proxy for risk. The more uncorrelated assets you have in that basket of assets, the more diversified you become, and the better your expected returns become. These optimal combinations, otherwise known as the 'efficient-frontier' are the foundation of modern-portfolio theory, and hence, this project.
 
-## Assumptions
-The investor chooses to invest 100% of his or her savings into a diversified index fund and will not begin drawing from the portfolio until their first retirement year.
-
-The investor's retirement account is a non-tax advantaged brokerage account and the withdrawls will be taxed as capital gains at the date of withdraw.
-
-The investor will maintain an income throughout his or her working years and will receive a constant pay raise percentage each year
-
-The investor's chosen index fund has a stable expense ratio
-
-Long term inflation rates match the Federal Reserve's target inflation rate of 2% (it's currently set at a conservative 2.5% but you can change it to whatever you want).
-
-All income saved throughout the investor's working years goes into the retirement portfolio
-
-Upon hitting the chosen retirement year, the investor will not change his or her real withdrawl amont (ie. every year in retirement you will give yourself a raise to keep up with inflation so that your standard of living does not change throughout retirement)
-
-After hitting your retirement year, no more money is saved into your retirement account, all annual withdrawls are spent throughout the year.
+## Jupyter Notebook Version vs Excel Version
+I initially created this project on Excel, but due to the long calculation times, I decided to try it out on Python in order to add more functionality and speed. 
