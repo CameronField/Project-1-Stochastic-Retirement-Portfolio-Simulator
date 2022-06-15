@@ -21,4 +21,4 @@ One motivator for this project was that I kept getting burned doing active tradi
 Diversification is the most effective strategy against isolated portfolio risks. As noted in the Markowitz model first published in 1952, given a group of assets, the most efficient portfolios of those assets are the combinations that result in the highest returns with the lowest risk, with standard-deviation being a proxy for risk. The more uncorrelated assets you have in that basket of assets, the more diversified you become, and the better your expected returns become. These optimal combinations, otherwise known as the 'efficient-frontier' are the foundation of modern-portfolio theory, and hence, this project.
 
 ## Jupyter Notebook Version vs Excel Version
-I initially created this project on Excel, but due to the long calculation times, I decided to try it out on Python in order to add more functionality and speed. 
+I initially created this project on Excel, but due to the long calculation times, I decided to try it out on Python in order to add more functionality and speed. Both the jupyter notebook and excel versions are included in this repository
