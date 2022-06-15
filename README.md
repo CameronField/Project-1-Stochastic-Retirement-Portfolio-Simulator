@@ -9,7 +9,7 @@ The goal of this project is to present a dynamic, probabilistic, and helpful vis
 
 Alternativevly, his project can be used by any investor who wants to stress-test their retirement portfolio and quantify the likelihood that their strategy will not run out of money. When designing this project, I tried to take into account all the major variables that an investor should consider when planning their retirement.
 
-Instead of presenting a simple portfolio calculator that uses fixed return rates each year, the goal was to use the inverse-normal function to generate sudo-random returns rates that mimic the actual behavior of the market (historically, market returns are normally distributed). Given the amount of parameters used in this project, I honestly had no idea where to start with an analytical solution, so I chose to use the monte-carlo method to derive insights.
+Instead of presenting a simple portfolio calculator that uses fixed return rates each year, the goal was to use the inverse-normal function to generate pseudo-random returns rates that mimic the actual behavior of the market (historically, market returns are normally distributed). Given the amount of parameters used in this project, I honestly had no idea where to start with an analytical solution, so I chose to use the monte-carlo method to derive insights.
 
 The model is entirely dymanic, so feel free to change the parameters to your liking, but in its current form, its defaults are set to numbers that match the average american retirement investor.
 
